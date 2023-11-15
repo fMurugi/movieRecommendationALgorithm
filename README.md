@@ -1,5 +1,4 @@
 # movieRecommendationALgorithm
-# Movie Recommendation System
 
 This project is a simple movie recommendation system implemented in Node.js. It uses collaborative filtering to recommend movies based on user preferences.
 
